@@ -1,3 +1,12 @@
+# Towing data for vehicles
+List containing towing capacity and data for vehicles. 
+
+# Usage
+Open source and 100% free.
+
+# Help
+Contribute and update the data.
+
 # Sample data:
 "7038","2006","Isuzu","I 280 2WD","2.8L I4","3100","Automatic transmission","3.73 axle ratio",,,,,,,,,,,,,"1"
 
